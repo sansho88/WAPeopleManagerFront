@@ -1,0 +1,22 @@
+.loading {
+  font-size: 1.2em;
+  color: blue;
+}
+
+.error {
+  font-size: 1.2em;
+  color: red;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
